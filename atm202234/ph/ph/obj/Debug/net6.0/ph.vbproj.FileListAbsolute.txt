@@ -1,0 +1,15 @@
+D:\Users\Usuario\Desktop\atm202234\ph\ph\bin\Debug\net6.0\ph.exe
+D:\Users\Usuario\Desktop\atm202234\ph\ph\bin\Debug\net6.0\ph.deps.json
+D:\Users\Usuario\Desktop\atm202234\ph\ph\bin\Debug\net6.0\ph.runtimeconfig.json
+D:\Users\Usuario\Desktop\atm202234\ph\ph\bin\Debug\net6.0\ph.dll
+D:\Users\Usuario\Desktop\atm202234\ph\ph\bin\Debug\net6.0\ph.pdb
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.vbproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.AssemblyInfo.vb
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.vbproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.dll
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\refint\ph.dll
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.pdb
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ph.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\atm202234\ph\ph\obj\Debug\net6.0\ref\ph.dll
